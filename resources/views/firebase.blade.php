@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Laravel Phone Number Authentication using Firebase - ItSolutionStuff.com</title>
+    <title>Laravel Phone Number Authentication using Firebase - </title>
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -8,7 +8,7 @@
 <body>
   
 <div class="container">
-    <h1>Laravel Phone Number Authentication using Firebase - ItSolutionStuff.com</h1>
+    <h1>Laravel Phone Number Authentication using Firebase - Robist.com</h1>
   
     <div class="alert alert-danger" id="error" style="display: none;"></div>
   
